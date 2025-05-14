@@ -3,17 +3,17 @@ This is a very blue photo gallery
 # First Level Heading
 ## Second Level Heading
 ### Third Level Heading
-**BOLD TEXT**
-*ITALIC TEXT*
+**BOLD TEXT**<br>
+*ITALIC TEXT*<br>
 `<P>THIS IS CODE</P>
 
 
 ## Features
--CSS Flexbox.
--Used Accessibility Tools To Ensure Contrast Is Up To WCAG.
--Alt Text.
--Credited Images Correctly
--Used Semantic HTML For Accessibility.
+1. CSS Flexbox.
+2. Used Accessibility Tools To Ensure Contrast Is Up To WCAG.
+3. Alt Text.
+4. Credited Images Correctly
+5. Used Semantic HTML For Accessibility.
 
 ## Updates
 1. Fix Aspect Ratio Of Something.
